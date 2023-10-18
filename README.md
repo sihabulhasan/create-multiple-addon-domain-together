@@ -1,2 +1,2 @@
-# create-multiple-addon-domain-together
-You can create multiple addon domains together in cPanel using this ansible playbook.
+1. Enter your server hostname or IP Address in hosts
+2. Enter the domain list in role > tasks > main.yaml
